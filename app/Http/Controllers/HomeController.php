@@ -15,6 +15,7 @@ class HomeController extends Controller
     {
         $this->middleware('auth');
         //cambio
+        //cambio desde la web
     }
 
     /**
