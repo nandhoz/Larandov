@@ -15,7 +15,11 @@ class HomeController extends Controller
     {
         $this->middleware('auth');
         //cambio
+<<<<<<< HEAD
 	//cambio desde el pc
+=======
+        //cambio desde la web
+>>>>>>> 098970388870ad066f921f3f8a1504fb1ff66c12
     }
 
     /**
